@@ -20,8 +20,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * ☁️ **In Progress:** AWS Academy Cloud Foundations.
 * 🎯 **Planned:** AWS Certified Cloud Practitioner / Solutions Architect – Associate.
 
-<br>
-
 ---
 
 ### 💻 Tech Stack: Languages
@@ -40,8 +38,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Openshift](https://img.shields.io/badge/Openshift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<br>
-
 ---
 
 ### 🌟 Professional Impact
@@ -49,8 +45,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * **Leadership and Strategy:** Transitioned into a lead role at Jio guiding peers and taking ownership of end-to-end solutioning to hit major product milestones for high-scale applications.
 * **Cloud and Infrastructure:** Built and maintained 10 CI/CD pipelines using Azure DevOps to orchestrate 100 Kubernetes pods, cutting deployment times by 60% and enabling robust cloud-native deployments.
 * **Full-Stack & Data Engineering:** Developed the Jio-BlackRock module for complex finance integrations and a tracking system handling 1M+ daily events via Kafka while reducing backend latency by 75% using Redis.
-
-<br>
 
 ---
 
