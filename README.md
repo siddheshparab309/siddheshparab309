@@ -4,7 +4,7 @@ I am currently pursuing a **Master’s in Computer Science at George Washington 
 
 My nearly 3 years of professional experience allowed me to bring fintech ideas from concept to reality, combining hands-on coding with thoughtful system design to build reliable, high-performance solutions in the telecom space. Along the way, I have gained solid practical experience in software development, databases and DevOps, collaborating with cross-functional teams to deliver clean, maintainable code and seamless deployments.
 
-<br>
+---
 
 ### 🔭 Current & Future Focus
 
@@ -13,7 +13,7 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * 🛠️ **Building:** An **Event Booking Portal** for movies, events and sports featuring real-time updates and secure payments.
 * 🤖 **Future Focus:** Leveraging my **AI/ML** coursework at GWU to build intelligent, data-driven applications and broaden my full-stack architecture.
 
-<br>
+---
 
 ### 📜 Certifications & Learning Path
 
@@ -21,6 +21,8 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * 🎯 **Planned:** AWS Certified Cloud Practitioner / Solutions Architect – Associate.
 
 <br>
+
+---
 
 ### 💻 Tech Stack: Languages
 
@@ -40,6 +42,8 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 
 <br>
 
+---
+
 ### 🌟 Professional Impact
 
 * **Leadership and Strategy:** Transitioned into a lead role at Jio guiding peers and taking ownership of end-to-end solutioning to hit major product milestones for high-scale applications.
@@ -47,6 +51,7 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * **Full-Stack & Data Engineering:** Developed the Jio-BlackRock module for complex finance integrations and a tracking system handling 1M+ daily events via Kafka while reducing backend latency by 75% using Redis.
 
 <br>
+
 ---
 
 ### 📫 Connect with Me
