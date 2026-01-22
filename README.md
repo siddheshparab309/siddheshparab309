@@ -1,4 +1,8 @@
-# Hi, I'm Siddhesh (Sid) Parab! 👋
+# Hi there! I'm Siddhesh, but you can call me Sid. 👋
+
+---
+
+### 🏛️ About Me
 
 I am currently pursuing a **Master’s in Computer Science at George Washington University**, focusing on Algorithm design, AI/ML and creating scalable, cloud-based solutions. 
 
