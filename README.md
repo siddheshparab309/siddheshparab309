@@ -56,15 +56,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 
 ---
 
-### 📊 GitHub Stats
-
-![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshparab309&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshparab309&layout=compact&theme=tokyonight)
-
-<br>
-
----
-
 ### 📫 Connect with Me
 
 * 💼 **LinkedIn:** [in/siddheshpparab](https://www.linkedin.com/in/siddheshpparab/)
