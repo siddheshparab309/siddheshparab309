@@ -4,7 +4,7 @@ I am currently pursuing a **Master’s in Computer Science at George Washington 
 
 My nearly 3 years of professional experience allowed me to bring fintech ideas from concept to reality, combining hands-on coding with thoughtful system design to build reliable, high-performance solutions in the telecom space. Along the way, I have gained solid practical experience in software development, databases and DevOps, collaborating with cross-functional teams to deliver clean, maintainable code and seamless deployments.
 
----
+<br>
 
 ### 🔭 Current & Future Focus
 
@@ -14,7 +14,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * 🤖 **Future Focus:** Leveraging my **AI/ML** coursework at GWU to build intelligent, data-driven applications and broaden my full-stack architecture.
 
 <br>
----
 
 ### 📜 Certifications & Learning Path
 
@@ -22,7 +21,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 * 🎯 **Planned:** AWS Certified Cloud Practitioner / Solutions Architect – Associate.
 
 <br>
----
 
 ### 💻 Tech Stack: Languages
 
@@ -41,7 +39,6 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Openshift](https://img.shields.io/badge/Openshift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <br>
----
 
 ### 🌟 Professional Impact
 
