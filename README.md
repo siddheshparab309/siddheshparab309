@@ -1,4 +1,4 @@
-# Hi there! I'm Siddhesh, but you can call me Sid. 👋
+# Hi there! I'm Siddhesh but you can call me Sid. 👋
 
 ---
 
