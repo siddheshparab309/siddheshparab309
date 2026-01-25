@@ -46,9 +46,9 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 
 ### 🌟 Professional Impact
 
-* **Leadership and Strategy:** Transitioned into a lead role at Jio guiding peers and taking ownership of end-to-end solutioning to hit major product milestones for high-scale applications.
+* **Leadership and Strategy:** Transitioned into a lead role guiding peers and taking ownership of end-to-end solutioning to hit major product milestones for high-scale applications.
 * **Cloud and Infrastructure:** Built and maintained 10 CI/CD pipelines using Azure DevOps to orchestrate 100 Kubernetes pods, cutting deployment times by 60% and enabling robust cloud-native deployments.
-* **Full-Stack & Data Engineering:** Developed the Jio-BlackRock module for complex finance integrations and a tracking system handling 1M+ daily events via Kafka while reducing backend latency by 75% using Redis.
+* **Full-Stack & Data Engineering:** Developed the Jio-BlackRock onboarding and SIP module for complex finance integrations and a tracking system handling 1M+ daily events via Kafka while reducing backend latency by 75% using Redis.
 
 ---
 
