@@ -55,5 +55,5 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 ### 📫 Connect with Me
 
 * 💼 **LinkedIn:** [in/siddheshpparab](https://www.linkedin.com/in/siddheshpparab/)
-* 🌐 **Portfolio:** [View My Work](https://siddheshparab.infinityfreeapp.com/)
+* 🌐 **Portfolio:** [View My Work](https://siddheshparab.netlify.app/)
 * 📧 **Email:** [siddheshparab.309@gmail.com](mailto:siddheshparab.309@gmail.com)
