@@ -19,10 +19,11 @@ My nearly 3 years of professional experience allowed me to bring fintech ideas f
 
 ---
 
-### 📜 Certifications & Learning Path
+### 📜 Current Certifications & Learning Path
 
-* ☁️ **In Progress:** AWS Academy Cloud Foundations.
-* 🎯 **Planned:** AWS Certified Cloud Practitioner / Solutions Architect – Associate.
+* ✅ **Completed:** AWS Academy Cloud Foundations.
+* ☁️ **In Progress:** AWS Certified Cloud Practitioner.
+* 🎯 **Planned:** AWS Solutions Architect – Associate.
 
 ---
 
